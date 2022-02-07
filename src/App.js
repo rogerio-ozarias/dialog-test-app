@@ -3,7 +3,7 @@ import Search from './pages/Search';
 import User from './pages/User';
 import Header from './pages/Components/Header';
 
-import { Switch, Route, Link } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 
 const App = () => {      
 

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { gql } from 'apollo-boost';
 import { useQuery } from '@apollo/react-hooks';
-import { Container, InfoCard, CardColum, CardRow, UserImg , UserData, UserInfo, FriendsContainer, FriendCard, TitleFriend} from './styles';
+import { Container, InfoCard, CardColum, UserImg , UserData, FriendsContainer, FriendCard, TitleFriend} from './styles';
 import {    
     useParams
   } from "react-router-dom";
